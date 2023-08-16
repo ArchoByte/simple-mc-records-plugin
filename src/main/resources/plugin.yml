@@ -1,0 +1,4 @@
+name: simple-mc-records
+main: com.archobyte.SimpleMcRecords.SimpleMcRecordsPlugin
+version: 0.0.1
+api-version: 1.15
